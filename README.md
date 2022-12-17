@@ -15,7 +15,7 @@ the line of poverty with respect to food (LPI). I also obtained practically the 
 as Jaramillo-Molina: approximately 60% of the population below the LPEI poverty 
 line do not receive any direct help from the federal government and 63% below the LPI line.
 
-![Main results, ENIGH2020_2](images/resultados.png)
+![Main results, ENIGH2020_2](resultados.png)
 
 
 Other values of use were calculated: the average income by state (total, urban, rural), as well
@@ -23,7 +23,7 @@ as percentages of the population below the poverty lines by state, urban and rur
 ("LPEI u", "LPEI r", "LPI u", "LPI r") and of the population below the poverty lines
 that do not receive help by state, urban and rural ("LPEI/su", "LPEI/sr", "LPI/su", "LPI/sr").
 
-![Results by state, ENIGH2020_2](images/resultados2.png)
+![Results by state, ENIGH2020_2](resultados2.png)
 
 
 # Code
@@ -41,7 +41,7 @@ to fix the path where the code expects the csv file to be before compiling.
 
 # Data
 
-[concentradohogar.csv] (https://www.inegi.org.mx/programas/enigh/nc/2020/#Microdatos)
+[concentradohogar.csv](https://www.inegi.org.mx/programas/enigh/nc/2020/#Microdatos)
 
 
 ## Status
