@@ -1,10 +1,14 @@
 ## Povery lines and "ayudas" in ENIGH 2020
 
-This calculation aims to reproduce Máximo Ernesto Jaramillo-Molina's (@rojo_neon on TW)
+This computation tries to reproduce Máximo Ernesto Jaramillo-Molina's (@rojo_neon on TW)
 claim re. % of people under the poverty lines that do not receive governmental
 monetary support, a.k.a "ayudas".
 
 The source was INEGI's latest ENIGH survey of 2020 and the poverty line estimates of CONEVAL. 
+
+I count only total current income ("ingreso corriente total"), without including extra
+income for financial and capital transactions ("percepciones financieras y de
+capital"), which are irregular in nature and include items such as borrowed money.
 
 
 ## Results
@@ -18,7 +22,7 @@ line do not receive any direct help from the federal government and 63% below th
 ![Main results, ENIGH2020_2](resultados.png)
 
 
-Other values of use were calculated: the average income by state (total, urban, rural), as well
+Other values of use were calculated: the average quarterly income by state (total, urban, rural), as well
 as percentages of the population below the poverty lines by state, urban and rural 
 ("LPEI u", "LPEI r", "LPI u", "LPI r") and of the population below the poverty lines
 that do not receive help by state, urban and rural ("LPEI/su", "LPEI/sr", "LPI/su", "LPI/sr").
